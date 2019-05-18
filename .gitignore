@@ -74,3 +74,9 @@ Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Content/maps/NewWorld.umap
+Content/maps/Manu.umap
+Content/maps/MainMenu.umap
+Content/maps/Levels/Level1.umap
+Content/maps/Kevin.umap
+Content/WBP/WBP_.uasset
